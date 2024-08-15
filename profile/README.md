@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The Django Swing Collection is a suite of packages and tools designed to streamline the process of bootstrapping Django projects. This collection aims to provide developers with a starting point by incorporating essential functionalities commonly needed in web applications.
+The Swing Collection is a suite of packages and tools designed to streamline the process of bootstrapping Django projects. This collection aims to provide developers with a starting point by incorporating essential functionalities commonly needed in web applications.
 
 _website:_ [swing.dj](https://www.swing.dj)
 
